@@ -27,8 +27,9 @@ This is a beginner-friendly example of building REST APIs with Flask.
 ## 📂 Project Structure
 
 ```
-├── app.py             # Main Flask application
-├── data.db            # SQLite database (auto-created on first run)
+├── app.py           # Main Flask application
+├── instance
+|   ├──data.db         # SQLite database (auto-created on first run)
 ├── requirement.txt    # Python dependencies
 └── README.md          # Project documentation
 ```
