@@ -133,17 +133,4 @@ You can test the API easily using **Postman**:
      * Method: `DELETE`
      * URL: `http://127.0.0.1:5000/drinks/1`
 
----
-
-## 🔮 Future Improvements
-
-* Add authentication (JWT)
-* Add unit tests (pytest)
-* Deploy API to Heroku / Render
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](./LICENSE).
 
